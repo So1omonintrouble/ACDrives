@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "2d9f26bea47dd15f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e49b456b7a12c74d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "理论基础.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f371e61ca5aaa593",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cfcce702136ef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b47c1f393aab7271",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "078cfcaf8c3035d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "37ee85707d0c8bc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "164dfa3aeca9cca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "886421987865b4f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "理论基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e49b456b7a12c74d",
+  "lastOpenFiles": [
+    "理论基础.md",
+    "未命名.md"
+  ]
+}
